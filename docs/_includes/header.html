@@ -1,0 +1,51 @@
+<!-- HEADER ------------------------------------------------------------------------------------------------------------>
+    <header class="fixed flex headerbar" >
+	 
+        <span role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="trigger mezzoem fontdue">
+		   <svg  width="40" viewBox="0 0 100 100" preserveAspectRatio="xMaxYMax"preserveAspectRatio="xMaxYMax" xmlns="http://www.w3.org/2000/svg">
+		       
+			      <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3"  />
+			      <line x1="20" y1="30" x2="80" y2="30" style="stroke:rgb(255,255,255);stroke-width:15"/>
+				  <line x1="20" y1="50" x2="80" y2="50" style="stroke:rgb(255,255,255);stroke-width:15"/>
+				  <line x1="20" y1="70" x2="80" y2="70" style="stroke:rgb(255,255,255);stroke-width:15"/>
+               
+             </svg>	  
+		</span>
+		<span class="titolo">Mauro Bertani</span></span>
+	  
+    </header>
+	
+	
+	<!-- SIDEBAR  ----------------------------------------------------------------------------------------------------------->
+	<amp-sidebar id="header-sidebar" layout="nodisplay">
+       <div >
+          <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="em trigger">✕</div>
+       </div>
+       <nav id="header-sidebar">
+          <ul class="ulnav nav">
+             <li class="mezzoem">
+			     <amp-accordion layout="container" disable-session-states class="navAccord">
+                   <section>
+                      <header class="trigger">Base</header>
+                         <ul class="ulnav">
+		             <li class="mezzoem"><a href="./index.html" class="textdec">Home</a></li>
+                             <li class="mezzoem"><a href="./Goldbach.html" class="textdec">Goldbach</a></li>
+                             <li class="mezzoem"><a href="./Numeric+Theory.html" class="textdec">Numeric Theory</a></li>
+                         </ul>
+                    </section>
+                 </amp-accordion>
+			 </li>
+		  <li class="mezzoem">
+			     <amp-accordion layout="container"  disable-session-states class="navAccord">
+                   <section>
+				      <header class="trigger">Github</header>
+                         <ul class="ulnav">
+                             <li class="mezzoem"><a href="https://github.com/bertanimauro/Goldbach/" class="textdec">repository</a></li>
+                         </ul>
+                    </section>
+                 </amp-accordion>
+			 </li>
+			
+		  </ul>
+		</nav>
+	</amp-sidebar>

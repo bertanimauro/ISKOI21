@@ -1,0 +1,109 @@
+/*GENERAL*/
+           h2{font-size:1.2em}
+	   .etitle{color:red}
+	   .align{text-align:center;}
+	   .left{float:left;}
+	   .emlr {
+	      padding-left:1em;
+	      padding-right:1em;
+		}
+	   .em{
+	      padding:1em;
+	   }
+	   .mezzoem{
+	      padding:0.5em;
+	   }
+	   
+	   .fontdue{font-size:1.3em;}
+	   .fonttre{font-size:1.8em;line-height:2.3em}
+	   .textdec{
+	      text-decoration:none;
+		  color:black;
+		  outline:none;
+		}
+	
+		
+	   /*POSITION*/	   
+		.fixed{position:fixed}
+		.flex{display:-webkit-box;display:-ms-flexbox;display:flex}
+		.relative{position:relative}
+		.absolute{position:absolute}
+		.top-0{top:0}
+		.right-0{right:0}
+		.bottom-0{bottom:0}
+		.left-0{left:0}
+	   
+	   /*HEADER*/
+	   header{width:100%;
+	     height:2em}
+	   .headerbar{z-index:999;
+	      background-color:#fff
+	      }
+	   
+	   /*NAV*/
+	   
+	   .ulnav{list-style-type:none;}
+	   .nav{
+		  font-size:1.2em;
+		  min-width:200px;
+	   }
+	   .navAccord>section>header{
+	          border:none;
+			  color:#000
+	   }
+	   .navAccord>section>header:before{
+	       display:inline-block;
+		   content:"+";
+		   color:#000000;
+		   padding:0 1em 0 0;
+	   }
+	   .navAccord>[expanded]>header:before{content:"–"}
+		.trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
+		
+		.titolo{font-size:1.4em;
+		   width:100%;
+		   text-align:center;
+		   margin-left:-1.7em;
+		   margin-top:0.6em;
+		   margin-bottom: 0.6em
+		}
+	
+		@media (max-width: 515px){
+		   .fonttre{font-size:1.1em;}
+		}
+		/*ARTICLE*/
+		h3{font:italic bold;}
+		article{
+		   padding-top:2.3em;
+		   font-family:sans-serif; 
+		   font-size:1.2em; 
+		   line-height:1.6em;
+		}
+		@media (min-width: 1200px){
+		   article{
+		     margin-left:15em;
+		     margin-right:15em;
+			 font-size:1.4em;
+			 line-height:1.6;
+		   }
+		}
+		
+		/*dl-ul*/
+		dl>dd, ul>li{
+		   list-style-type:none
+		}
+		.ul-langle > li {position:relative}
+		 .bullet {
+		   position:absolute;
+		   left: -2.5em;
+		}
+		
+		/*FOOTER*/
+		footer{
+		   
+		   text-align:center;
+		   font-size:0.8;
+		   line:height:1.3;
+		   margin-bottom:3em;
+		}
+		
