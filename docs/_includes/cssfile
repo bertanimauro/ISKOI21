@@ -39,6 +39,7 @@
 	     height:2.5em}
 	   .headerbar{z-index:999;
 	      background-color:#fff
+	      height:4em;
 	      }
 	   
 	   /*NAV*/
@@ -66,7 +67,7 @@
 		   text-align:center;
 		   margin-left:-1.7em;
 		   margin-top:0.6em;
-		   margin-bottom: 1.6em
+		   margin-bottom: 0.6em
 		}
 	
 		@media (max-width: 515px){
