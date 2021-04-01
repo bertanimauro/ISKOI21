@@ -1,4 +1,5 @@
 /*GENERAL*/
+           @print{amp-sidebar,header{display:none;}}
            h2{font-size:1.2em}
 	   .etitle{color:red}
 	   .align{text-align:center;}
