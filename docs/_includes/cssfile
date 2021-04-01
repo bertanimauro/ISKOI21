@@ -1,5 +1,5 @@
 /*GENERAL*/
-           @media print {amp-img{page-break-before: always;width:200px}}
+           @media print {amp-img{page-break-before: always;width:200px;}}
            h2{font-size:1.2em}
 	   .etitle{color:red}
 	   .align{text-align:center;}
