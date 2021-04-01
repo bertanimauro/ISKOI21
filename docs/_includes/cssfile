@@ -1,6 +1,5 @@
 /*GENERAL*/
-           @media print {amp-sidebar {display:none};
-	   header {display:none}}
+           @media print {amp-sidebar {visibility:hidden;}}
            h2{font-size:1.2em}
 	   .etitle{color:red}
 	   .align{text-align:center;}
