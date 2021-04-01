@@ -7,5 +7,5 @@
 Lattice - Ranganathan - Vector Space - Subject heading
 
 repo structure:
- * ./_site/ **->** [web official site](https://bertanimauro.github.io/ISKOICremona21/)
+ * ./_site/ **->** [web official site](https://bertanimauro.github.io/ISKOI21/)
  
