@@ -1,7 +1,6 @@
 /*GENERAL*/
            @media print {amp-img{page-break-before: always;}}
            h2{font-size:1.2em}
-	   .etitle{color:red}
 	   .align{text-align:center;}
 	   .left{float:left;}
 	   .sect{font-size:1em;}
@@ -61,12 +60,11 @@
 		   padding:0 1em 0 0;
 	   }
 	   .navAccord>[expanded]>header>h2:before{content:"–";display:inline-block;}
-           .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
+           .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none;}
 		
-		#titolo{
+		#titolo {
 		   width:75%;
 		   text-align:center;
-		   font-size:1.4em;
 		   padding-top:0.2em;
 		   
 		}
