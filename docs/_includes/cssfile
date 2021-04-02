@@ -53,13 +53,13 @@
 	          border:none;
 			  color:#000
 	   }
-	   .navAccord>section>header:before{
+	   .navAccord>section>.sect:before{
 	       display:inline-block;
 		   content:"+";
 		   color:#000000;
 		   padding:0 1em 0 0;
 	   }
-	   .navAccord>[expanded]>header:before{content:"–"}
+	   .navAccord>[expanded]>.sect:before{content:"–"}
 		.trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
 		.titolo{font-size:1.4em;
