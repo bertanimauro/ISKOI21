@@ -14,7 +14,7 @@
 	   .mezzoem{
 	      padding:0.5em;
 	   }
-	   
+	   figcaption{text-align:center;font-size:0.8em;}
 	   #icon{width:15%;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
