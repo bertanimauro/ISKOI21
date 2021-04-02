@@ -65,8 +65,7 @@
 		
 		.titolo{font-size:1.4em;
 		   width:100%;
-		   text-align:center;
-		   margin-left:-1.7em;
+		   margin-left:4.7em;
 		   margin-top:0.6em;
 		   margin-bottom: 0.6em
 		}
