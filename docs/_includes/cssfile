@@ -1,5 +1,6 @@
 /*GENERAL*/
-           @media print{figure{display:none;}}
+           @media print{.figureprint{display:none;} .figureprint2{display:block;}}
+	   .figureprint2{display:none;}
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
