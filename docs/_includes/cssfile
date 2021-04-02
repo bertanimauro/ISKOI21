@@ -59,7 +59,7 @@
 		   color:#000000;
 		   padding:0 1em 0 0;
 	   }
-	   .navAccord>[expanded]>header> .sect:before{content:"–"}
+	   .navAccord>[expanded]>header> h2:before{content:"–"}
 		.trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
 		.titolo{font-size:1.4em;
