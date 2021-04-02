@@ -1,6 +1,6 @@
 /*GENERAL*/
            @media screen{.figureprint2{display:none;}}
-           @media print{.figureprint{display:none;} .figureprint2{page-break-before:always;padding-top:4em}}
+           @media print{.figureprint{display:none;} .figureprint2{display:initial;page-break-before:always;padding-top:4em}}
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
