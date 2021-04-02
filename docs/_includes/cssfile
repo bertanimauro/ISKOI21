@@ -1,5 +1,5 @@
 /*GENERAL*/
-           @media print {figure>amp-img{margin-left: 15%;margin-right:15%}}
+           @media print{figure{display:none;}}
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
@@ -16,7 +16,7 @@
 	   }
 	   figure{width:100%;}
 	   figure>amp-img{margin:auto;}
-	   figcaption{text-align:center;font-size:0.8em;}
+	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
