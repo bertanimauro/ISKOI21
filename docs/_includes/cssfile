@@ -14,6 +14,8 @@
 	   .mezzoem{
 	      padding:0.5em;
 	   }
+	   figure{width:100%;}
+	   figure>amp-img{margin:auto;}
 	   figcaption{text-align:center;font-size:0.8em;}
 	   #icon{width:15%;}
 	   .fontdue{font-size:1.3em;}
