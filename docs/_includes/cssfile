@@ -15,6 +15,7 @@
 	   .mezzoem{
 	      padding:0.5em;
 	   }
+	   .h{height:1.5em;}
 	   
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
@@ -53,14 +54,14 @@
 	          border:none;
 			  color:#000
 	   }
-	   .navAccord>section>header> h2:before{
+	   .navAccord>section>header>h2:before{
 	       display:inline-block;
 		   content:"+";
 		   color:#000000;
 		   padding:0 1em 0 0;
 	   }
-	   .navAccord>[expanded]>header> h2:before{content:"–"}
-		.trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
+	   .navAccord>[expanded]>header>h2:before{content:"–"}
+           .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
 		.titolo{font-size:1.4em;
 		   width:100%;
