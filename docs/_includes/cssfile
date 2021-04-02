@@ -4,6 +4,7 @@
 	   .etitle{color:red}
 	   .align{text-align:center;}
 	   .left{float:left;}
+	   .sect{font-size:1em;}
 	   .emlr {
 	      padding-left:1em;
 	      padding-right:1em;
