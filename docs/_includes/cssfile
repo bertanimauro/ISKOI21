@@ -64,9 +64,7 @@
            .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
 		.titolo{font-size:1.4em;
-		   width:100%;
 		   float:right;
-		   margin-right:4em;
 		   margin-top:0.6em;
 		   margin-bottom: 0.6em
 		}
