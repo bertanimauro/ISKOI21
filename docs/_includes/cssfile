@@ -64,7 +64,6 @@
            .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
 		.titolo{font-size:1.4em;
-		   float:right;
 		   padding-top:0.2em;
 		   padding-right:0.4em;
 		   
