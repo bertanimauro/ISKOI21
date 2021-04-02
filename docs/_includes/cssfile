@@ -15,8 +15,8 @@
 	   .mezzoem{
 	      padding:0.5em;
 	   }
-	   .h{height:1.5em;}
 	   
+	   #icon{width:15%;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
 	   .textdec{
@@ -63,7 +63,10 @@
 	   .navAccord>[expanded]>header>h2:before{content:"–";display:inline-block;}
            .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
-		.titolo{font-size:1.4em;
+		#titolo{
+		   width:75%;
+		   text-align:center;
+		   font-size:1.4em;
 		   padding-top:0.2em;
 		   padding-right:0.4em;
 		   
