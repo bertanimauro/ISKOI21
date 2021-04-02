@@ -1,5 +1,5 @@
 /*GENERAL*/
-           @media print {figure{margin-left: 15%;margin-right:15%}}
+           @media print {figure>amp-img{margin-left: 15%;margin-right:15%}}
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
