@@ -8,5 +8,5 @@ Attraverso i lattice proverò a spiegare una possibile implementazione della teo
 Lattice - Ranganathan - Vector Space - Subject heading
 
 repo structure:
- * ./_site/ **->** [web official site](https://bertanimauro.github.io/ISKOI21/)
+ * ./doc/ **->** [web official site](https://bertanimauro.github.io/ISKOI21/)
  
