@@ -63,10 +63,10 @@
 	   .navAccord>[expanded]>header>h2:before{content:"–";display:inline-block;}
            .trigger:focus,.trigger:active,.trigger:hover,.trigger:visited,.trigger:link{outline:none;text-decoration:none}
 		
-		.titolo{font-size:1.2em;
+		.titolo{font-size:1.4em;
 		   float:right;
-		   margin-top:0.2em;
-		   margin-right:0.4em;
+		   padding-top:0.2em;
+		   padding-right:0.4em;
 		   
 		}
 	
