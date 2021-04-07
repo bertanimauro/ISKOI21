@@ -22,7 +22,7 @@
 	   figure{width:100%;}
 	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
-	   #pdf{width:100%; height:2em;text-align:center;padding-bottom:0.4em}
+	   #pdf{width:100%; height:2em;text-align:center;padding-bottom:0.4em;padding-top:2.3em;}
 	   #logo1 {height:45px;width: 45px}
 	   #logo2 {height:45px;width: 37px}
 	   a:focus,a:active,a:hover,a:visited,a:link {outline:none;text-decoration:none;}
