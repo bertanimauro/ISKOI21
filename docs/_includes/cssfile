@@ -24,7 +24,7 @@
 	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
 	   #pdf{float:right;}
-	   #pdf>a:focus,#pdf>a:active,#pdf>a:hover,#pdf>a:visited,#pdf>a:link {outline:none;text-decoration:none;}
+	   a:focus,a:active,a:hover,a:visited,a:link {outline:none;text-decoration:none;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
 	   .textdec{
