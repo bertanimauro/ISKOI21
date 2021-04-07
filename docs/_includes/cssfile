@@ -1,6 +1,6 @@
 /*GENERAL*/
            @media screen{.figureprint2{display:none;}}
-           @media print{.figureprint{display:none;} .figureprint2{display:block;page-break-before:always;padding-top:4em}}
+           @media print{.figureprint{display:none;} .figureprint2{display:block;page-break-before:always;padding-top:4em} #article{font-size:1.1em}}
            h2{font-size:1.2em}
 	   .align{text-align:center;}
 	   .left{float:left;}
@@ -83,10 +83,10 @@
 		   font-size:1.2em; 
 		   line-height:1.6em;
 		}
-		@media (min-width: 1200px){
+		@media (min-width: 1000px){
 		   article{
-		     margin-left:15em;
-		     margin-right:15em;
+		     margin-left:12em;
+		     margin-right:12em;
 			 font-size:1.4em;
 			 line-height:1.6em;
 		   }
