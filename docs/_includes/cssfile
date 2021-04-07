@@ -20,7 +20,7 @@
 	      padding:0.5em;
 	   }
 	   figure{width:100%;}
-	   figure>amp-img{margin-left:15%;margin-right:15%;}
+	   figure amp-img{margin:auto;}
 	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
 	   #pdf{width:100%;text-align:right;}
