@@ -23,6 +23,7 @@
 	   figure>amp-img{margin-left:15%;margin-right:15%;}
 	   figcaption{text-align:center;font-size:0.7em;}
 	   #icon{width:15%;}
+	   #pdf{float:right;}
 	   .fontdue{font-size:1.3em;}
 	   .fonttre{font-size:1.8em;line-height:2.3em}
 	   .textdec{
